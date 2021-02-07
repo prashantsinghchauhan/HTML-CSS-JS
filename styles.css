@@ -23,6 +23,18 @@
     box-shadow: 0px 0px 20px rgba(0,0,0,1);
 }
 
+/* for anmation syntax is animation : function-name  time 
+
+@keyframe is a keyword for apply animation 
+@keyframe function_name{
+from{
+define functionality
+}
+to{
+
+}
+}
+*/
 #child1{
     animation: neeche 2s;
 }
